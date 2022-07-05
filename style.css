@@ -97,3 +97,47 @@ body {
 
 
 /* About Me End */
+
+.recipies {
+    padding-top: 50px;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.food {
+    display: flex;
+    padding-top: 50px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.food1 {
+    border: 10px solid gray;
+    border-radius: 20px;
+    Box-shadow: 4px 5px 20px gray;
+    padding: 20px;
+}
+
+.food1 img {
+    float: left;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+}
+
+.food2 {
+    border: 10px solid gray;
+    border-radius: 20px;
+    margin-left: 20px;
+    align-items: center;
+    Box-shadow: 4px 5px 20px rgb(76, 67, 67);
+    padding: 20px;
+}
+
+.food2 img {
+    float: right;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+}
