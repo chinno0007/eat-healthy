@@ -108,6 +108,7 @@ body {
 .food {
     display: flex;
     padding-top: 50px;
+    padding-bottom: 50px;
     width: 80%;
     margin: 0 auto;
 }
@@ -141,3 +142,18 @@ body {
     height: 200px;
     padding: 20px;
 }
+
+/* My recipie ended */
+
+
+.viewers {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+    box-shadow: 20px 20px 100px rgb(128, 133, 128);
+    padding: 40px;
+
+}
+
+/* Viewers end */
